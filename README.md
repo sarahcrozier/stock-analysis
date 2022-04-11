@@ -8,7 +8,11 @@ The stock analysis tool assisted the client in determining the return on "green 
 
 - Code Refoctoring Preformance
 The intial code returned a slower run time. By refactoring the code the run times decreased and the efficency was improved. 
+
+
 ![First Run Time](Images/InitalRunTime.png)
+
+
 
 
 ![Refactored Run Time](Images/RefactoredRunTime.png)
